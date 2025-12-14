@@ -1,0 +1,7 @@
+{
+  "name": "CyberPink Christmas Dream",
+  "description": "A high-performance 3D interactive particle Christmas tree with AI hand gesture control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
